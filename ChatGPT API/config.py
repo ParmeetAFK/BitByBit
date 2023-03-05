@@ -1,0 +1,5 @@
+
+
+OPEN_AI_API_KEY = "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"
+
+
